@@ -1,0 +1,19 @@
+{
+"tags": [
+            {
+
+                "url": "https://ws.autosphere.fr/img/360/FE-526-DA/Defaut/pcav1.jpg",
+                "title": "pc av",
+                "x": "0.1134051618904903",
+                "y": "0.6048696319018405",
+                "origin": "https://ws.autosphere.fr/img/360/FE-526-DA/Cles/1.jpg"
+            },
+            {
+                "url": "https://ws.autosphere.fr/img/360/FE-526-DA/Defaut/aileard2.jpg",
+                "title": "aile ar d",
+                "x": "0.1840948170629041",
+                "y": "0.54045245398773",
+                "origin": "https://ws.autosphere.fr/img/360/FE-526-DA/Cles/8.jpg"
+            }
+      ]
+}
